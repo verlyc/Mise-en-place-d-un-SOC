@@ -16,6 +16,7 @@ Ce projet a été réalisé dans le cadre de la mise en place d’un Security Op
 
  
 2. Étapes clés du projet
+   
 - Gestion de projet et évaluation des besoins
 
     - Analyse initiale :
